@@ -1,69 +1,69 @@
-# **Website Project Description**
+# Projektname / Project Name
 
-## **1. Project Title**
+**Filip Gjorgiev**
 
-* Give your website a clear and creative title.
-  *Example:* “Space”.
+**Jesús Dávila**
 
----
-
-## **2. Project Idea**
-
-* Describe what your website is about.
-
-  * Info about space, planets, stars, moons and etc.
-  * Humanity has been trying to explore space since the 60s and it's clear that space will become important in our future.
+**Englisch:**  
+Space
 
 ---
 
-## **3. Target Audience**
+## Ausgangssituation / Problemstellung / Vorgeschichte  
 
-* Who do you want to visit and use your website?
+### Englisch:
+Spacer is tipically a topic of general interest among People.
+It´s alo a mutual topic of interest ofours.
 
-  * Young people, students, people with an interest in space and people with an interest in tech
-  * Students may use the site for learning and people who want to read about space could use the site to learn more about it
----
-
-## **4. Structure of the Website**
-
-* We will expect about 6 pages.
-* What will each page be about?
-
-  * `index.html` → Home page and general info about space
-  * `planets.html` → Planets
-  * `stars.html` → Stars
-  * `moons.html` → Moons
-  * `uncategorized.html` → Miscellaneous stuff about space that isn't mentioned in the last four pages
-  * `enigma.html` → The mysteries of space
-  * `gallery.html` → Image gallery
 
 ---
 
-## **5. Design and Layout**
+## Projektziele / Nicht-Ziele  
 
-* Describe your planned design:
+### Englisch:
+**Project Goals:**  
+Enlighten the reciver vith a website about space spiking his interest on that topic.
 
-  * The colors will mostly be a light black, dark blue and grey to keep it space aesthetic. Each individual page will also have certain styles depending on what it is about, like brighter colors for stars.
-  * Dark blue with links to the other pages
-  * Which parts will stay the same on all pages (e.g. header, footer)?
-
----
-
-## **6. Milestones**
-
-* Plan the main steps for your project.
-  *Example:*
-
-  * **Week 1:** Planning and creating the structure
-  * **Week 2:** Building HTML pages
-  * **Week 3:** Styling with CSS
-  * **Week 4:** Testing and final presentation
+**Non-Goals:**  
+Make the website a gimmiky clump of coode no one really understands.
 
 ---
 
-## **7. Special Features (optional)**
+## Projektinhalte / Project Contents  
 
-* Is there something special you would like to try out?:
-    **Animations**
+### Englisch:
+Creatin a Generic Website with space info and its corresponding parts (CSS and HTML)
 
 ---
+
+## Kritische Erfolgsfaktoren / Critical Success Factors  
+
+### Englisch:
+A compound Programming expirience of both members.
+
+---
+
+## Termine / Milestones  
+### Deutsch:
+**Projektstart:**  
+- Ereignis: Was den Projektbeginn markiert (z.B. Kick-off Meeting)  => UNTERRICHT
+- Termin: Datum des Starts
+
+**Projektende:**  
+- Ereignis: Was das Projektende definiert (z.B. Abnahme durch Kunden)  => ABGABE
+- Termin: Abschlussdatum
+
+**Meilensteine:**  
+Wichtige Zwischenereignisse und ihre Termine.
+
+### Englisch:
+**Project Start:**  
+- Event: What marks the project start (e.g., kick-off meeting)  
+- Date: Start date
+
+**Project End:**  
+- Event: What defines the project end (e.g., customer acceptance)  => ABGABE
+- Date: End date => In der ABGABEFRIST
+
+**Milestones:**  
+Key intermediate events and their dates. => UNTERRICHT
